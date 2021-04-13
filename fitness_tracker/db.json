@@ -1,0 +1,150 @@
+[
+    {
+        "_id": {
+            "$oid": "607163bb7ac3530498a07bc2"
+        },
+        "day": 1617179835300,
+        "exercises": [
+            {
+                "type": "resistance",
+                "name": "Bicep Curl",
+                "duration": 20,
+                "weight": 100,
+                "reps": 10,
+                "sets": 4
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "607163bb7ac3530498a07bc3"
+        },
+        "day": 1617266235301,
+        "exercises": [
+            {
+                "type": "resistance",
+                "name": "Lateral Pull",
+                "duration": 20,
+                "weight": 300,
+                "reps": 10,
+                "sets": 4
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "607163bb7ac3530498a07bc4"
+        },
+        "day": 1617352635301,
+        "exercises": [
+            {
+                "type": "resistance",
+                "name": "Push Press",
+                "duration": 25,
+                "weight": 185,
+                "reps": 8,
+                "sets": 4
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "607163bb7ac3530498a07bc5"
+        },
+        "day": 1617439035301,
+        "exercises": [
+            {
+                "type": "cardio",
+                "name": "Running",
+                "duration": 25,
+                "distance": 4
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "607163bb7ac3530498a07bc6"
+        },
+        "day": 1617525435301,
+        "exercises": [
+            {
+                "type": "resistance",
+                "name": "Bench Press",
+                "duration": 20,
+                "weight": 285,
+                "reps": 10,
+                "sets": 4
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "607163bb7ac3530498a07bc7"
+        },
+        "day": 1617611835301,
+        "exercises": [
+            {
+                "type": "resistance",
+                "name": "Bench Press",
+                "duration": 20,
+                "weight": 300,
+                "reps": 10,
+                "sets": 4
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "607163bb7ac3530498a07bc8"
+        },
+        "day": {
+            "$date": "2021-04-06T08:37:15.301Z"
+        },
+        "exercises": [
+            {
+                "type": "resistance",
+                "name": "Quad Press",
+                "duration": 30,
+                "weight": 300,
+                "reps": 10,
+                "sets": 4
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "607163bb7ac3530498a07bc9"
+        },
+        "day": {
+            "$date": "2021-04-07T08:37:15.301Z"
+        },
+        "exercises": [
+            {
+                "type": "resistance",
+                "name": "Bench Press",
+                "duration": 20,
+                "weight": 300,
+                "reps": 10,
+                "sets": 4
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "607163bb7ac3530498a07bca"
+        },
+        "day": {
+            "$date": "2021-04-08T08:37:15.301Z"
+        },
+        "exercises": [
+            {
+                "type": "resistance",
+                "name": "Military Press",
+                "duration": 20,
+                "weight": 300,
+                "reps": 10,
+                "sets": 4
+            }
+        ]
+    }
+]
